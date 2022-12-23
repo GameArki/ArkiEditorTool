@@ -1,0 +1,16 @@
+{
+    "name": "GameArki.EditorTool.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:285e8cc9ba70b3f4e8804beca97b360b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

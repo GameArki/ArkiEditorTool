@@ -1,5 +1,5 @@
 {
-    "name": "GameArki.EditorTool.Sample",
+    "name": "GameArki.EditorTool.TreeView.Sample",
     "rootNamespace": "",
     "references": [
         "GUID:285e8cc9ba70b3f4e8804beca97b360b"
@@ -10,7 +10,9 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
